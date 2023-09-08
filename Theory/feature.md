@@ -1,5 +1,5 @@
 ## Features Vector
-![Alt text](image.png)
+![Alt text](Images/image.png)
 
 ## Features
 1. Qualitative
