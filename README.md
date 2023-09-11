@@ -25,3 +25,5 @@ $$    $$/ $$       |$$ |      $$ |$$       |/     $$/
 [![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/Machine-Learning-Series)](https://github.com/whoami-anoint/Machine-Learning-Series/discussions)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/whoami-anoint/Machine-Learning-Series)](https://github.com/whoami-anoint/Machine-Learning-Series/pulls)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-blue.svg)](CODE_OF_CONDUCT.md)
+
+Welcome to the Machine Learning Series! 🚀 If you're on a Machine learning journey, you're in the right place.
