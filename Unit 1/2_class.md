@@ -1,5 +1,5 @@
-# Unit 2 : 
-### Chapter 2 : Classifications of machine learning:
+# Unit 1 : 
+### Chapter 2 : Classifications of machine learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Share on Twitter](https://img.shields.io/badge/-Share%20on%20Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/intent/tweet?text=https%3A%2F%2Fgithub.com%2Fwhoami-anoint%2FMachine-Learning-Series)
