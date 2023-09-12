@@ -30,8 +30,8 @@ Welcome to the Machine Learning Series! 🚀 If you're on a Machine learning jou
 
 # Contents
 ## Unit 1: Introduction to Machine learning 
-- [Machine Learning applications]()
-- [Learning association]()
-- [Classification]()
-- [Regression]()
-- [Unsupervised learning]()
+1. [Machine Learning applications]()
+2. [Learning association]()
+3. [Classification]()
+4. [Regression]()
+5. [Unsupervised learning]()
