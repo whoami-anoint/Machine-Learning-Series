@@ -35,3 +35,18 @@ Welcome to the Machine Learning Series! 🚀 If you're on a Machine learning jou
 3. [Classification]()
 4. [Regression]()
 5. [Unsupervised learning]()
+
+
+## About This Repository
+
+This repository is a collection of notes and resources to assist you on your Machine Learning journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/Machine-Learning-Series/pulls).
+
+## Get Involved
+
+📣 **Join the Discussion**: Have questions, ideas, or thoughts to share? Visit our [Discussions](https://github.com/whoami-anoint/Machine-Learning-Series/discussions) section.
+
+🛠️ **Contribute**: Found a typo or want to add more content? Open a [pull requests](https://github.com/whoami-anoint/Machine-Learning-Series/pulls)! We appreciate your contributions.
+
+Discover, Analyze, Transform! 🌟🔍🚀 \
+Let's learn and grow together! 🌐
+#### #Happy Learning 🤎
