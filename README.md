@@ -1,13 +1,16 @@
 # Machine Learning Series
 <pre>
-              ___  _        ___       __         ____        _       
-             / _ )(_)__ _  / _ \___ _/ /____ _  / __/__ ____(_)__ ___
-            / _  / / _ `/ / // / _ `/ __/ _ `/ _\ \/ -_) __/ / -_|_-<
-           /____/_/\_, / /____/\_,_/\__/\_,_/ /___/\__/_/ /_/\__/___/
-                  /___/                                              
-
+       __  ___         __   _            __                     _          
+      /  |/  /__ _____/ /  (_)__  ___   / /  ___ ___ ________  (_)__  ___ _
+     / /|_/ / _ `/ __/ _ \/ / _ \/ -_) / /__/ -_) _ `/ __/ _ \/ / _ \/ _ `/
+    /_/  /_/\_,_/\__/_//_/_/_//_/\__/ /____/\__/\_,_/_/ /_//_/_/_//_/\_, / 
+                                                                    /___/  
+                               ____        _       
+                              / __/__ ____(_)__ ___
+                             _\ \/ -_) __/ / -_|_-<
+                            /___/\__/_/ /_/\__/___/
+                                                   
 </pre>
-
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Share on Twitter](https://img.shields.io/badge/-Share%20on%20Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/intent/tweet?text=https%3A%2F%2Fgithub.com%2Fwhoami-anoint%2FMachine-Learning-Series)
 [![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/Machine-Learning-Series)](https://github.com/whoami-anoint/Machine-Learning-Series/discussions)
