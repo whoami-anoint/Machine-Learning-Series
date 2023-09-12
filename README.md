@@ -29,3 +29,9 @@ $$    $$/ $$       |$$ |      $$ |$$       |/     $$/
 Welcome to the Machine Learning Series! 🚀 If you're on a Machine learning journey, you're in the right place.
 
 # Contents
+## Unit 1: Introduction to Machine learning 
+[Machine Learning applications]()
+[Learning association]()
+[Classification]()
+[Regression]()
+[Unsupervised learning]()
